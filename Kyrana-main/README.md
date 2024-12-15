@@ -47,7 +47,7 @@ This project implements an AI-powered social media agent that autonomously engag
 ## Installation
 
 1. Clone the repository:
-git clone https:[//github.com/ayekill/tana](https://github.com/Kyrana0x/Kyrana_rig/edit/main/Kyrana-main)
+git clone https:[(https://github.com/Kyrana0x/Kyrana_rig/edit/main/Kyrana-main)]
 cd tana
 
 2. Create a `.env` file with required credentials:
